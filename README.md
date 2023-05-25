@@ -5,3 +5,4 @@
 ### Nova mudança
 
 * Comando git push
+* Comando git pull
