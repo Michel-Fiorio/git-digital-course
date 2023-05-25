@@ -3,3 +3,5 @@
 ## Gravando mudanças no repositório
 
 ### Nova mudança
+
+* Comando git push
